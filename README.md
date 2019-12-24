@@ -2,7 +2,7 @@ UX DIU Project Checklist
 ===========
 
 Start your next UX project with this checklist and don't forget anything!
-
+ver 1.0 updated 22/12/2019
 
 
 ### Desk Research 
@@ -83,7 +83,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   (http://www.cvc.uab.es/shared/teach/a21291/temes/i18n/slides/handouts/i18n.pdf)
 
-###Design 
+### Design 
 
 * **Landing Pages**. For branding, a landing page is a dedicated online page built solely for accomplishing one or more marketing goals such as generating leads or getting clicks  
 
@@ -107,7 +107,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   
 
-###Design
+### Design
 
 * **UI Patterns.**  Reuse elements and patterns. Follow your style guidelines. Don't have any? Create your guidelines. Start small, then create pages. http://styleguides.io 
 
@@ -127,7 +127,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   
 
-###Testing
+### Testing
 
 * **Prototype**. Prototype is an early sample of design used to get feedback and rapid experiments with new ideas. Publish on Github to test functionality. Yes, your product can do that! https://uxplanet.org/basics-of-prototyping-1a4106e12c0e
 
@@ -167,7 +167,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 
 
-###Accesibility
+### Accesibility
 
 * **Accesiblity** A study to measure if the website can be used by everyone, including users with special needs. https://uxplanet.org/how-to-create-interfaces-that-benefit-all-accessibility-testing-and-inclusive-design-principles-ed15477bcce0
 
