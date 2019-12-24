@@ -2,6 +2,11 @@ UX DIU Project Checklist
 ===========
 
 Start your next UX project with this checklist and don't forget anything!
+
+UX CheckList para Diseño de Interfaces de Usuario, Universidad de Granada (https://github.com/mgea/DIU19) 
+
+Online version: https://mgea.github.io/DIU
+
 ver 1.0 updated 22/12/2019
 
 
@@ -9,7 +14,7 @@ ver 1.0 updated 22/12/2019
 
 * **Competitive Analysis/heuristic review**. See how others solve similar problems and try to not reinvent the wheel. http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/
 
-Realizar revisiones,  análisis de uso de websites de competidores y del sistema antiguo.  [1, ] https://medium.com/@alexgilev/how-to-do-a-competitive-analysis-1aa4b05e80a3
+ Realizar revisiones,  análisis de uso de websites de competidores y del sistema antiguo.  [1, ] https://medium.com/@alexgilev/how-to-do-a-competitive-analysis-1aa4b05e80a3
 
 Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
