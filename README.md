@@ -20,15 +20,15 @@ Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
 * **Usability Review,** Heuristic review determining how usable a site is entails working through a checklist *UX for the Masses: A guide to carrying out usability reviews* http://www.uxforthemasses.com/usability-reviews/ 
 
-Template  http://www.uxforthemasses.com/wp‐content/uploads/2011/02/Usability‐review‐template.xls
+  Template  http://www.uxforthemasses.com/wp‐content/uploads/2011/02/Usability‐review‐template.xls
 
-Template https://www.uxforthemasses.com/wp‐content/uploads/2011/02/Usability‐review‐template.pdf 
+  Template https://www.uxforthemasses.com/wp‐content/uploads/2011/02/Usability‐review‐template.pdf 
 
   img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
 * **Ethnography research**  is to see the world and challenge, from the perspective of another person. Try to make observations and conversations to understand of who you are designing for  with these guidelines https://dschool.stanford.edu/resources/ethnography-fieldguide  /  http://www.clearworks.net/wp-content/uploads/2016/03/Ethnographic-Field-Guide..pdf 
 
-Img: grub 
+  Img: grub 
 
   
 
