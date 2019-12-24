@@ -157,7 +157,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
-* **Eye Tracking **. A technology that analyzes the user’s eye movements across the interface. Provides data about what keeps users interested on the screen and how their reading flow could be optimized by design. https://www.uxmatters.com/mt/archives/2009/10/eyetracking-is-it-worth-it.php
+* **Eye Tracking **  A technology that analyzes the user’s eye movements across the interface. Provides data about what keeps users interested on the screen and how their reading flow could be optimized by design. https://www.uxmatters.com/mt/archives/2009/10/eyetracking-is-it-worth-it.php
 
   Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
