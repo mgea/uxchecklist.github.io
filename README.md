@@ -214,6 +214,9 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 
 
+![UX-DIU-Checlist v.1.0](https://github.com/mgea/UX-DIU-Checklist/blob/master/img/UX-DIU%20Checklist%20image.png)
+
+
 ### Referencias
 
 [1] http://uxmastery.com/resources/process  https://uxmastery.com/resources/techniques/
