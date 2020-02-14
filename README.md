@@ -90,6 +90,12 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 ### Design 
 
+**Moodboard.** It helps designers and stakeholders get on the same page for the visual aspects of the project. In UX Design and product design, a mood board is a collage of images, fonts, interactions, features, icons, and UI elements to communicate the artistic direction of a project.
+
+A UX guide to designing better mood boards (UX Collective, 2019) https://uxdesign.cc/a-mood-board-strategy-for-cohesive-visual-design-5620dec3fed7
+
+Creating Better Moodboards for UX Projects (UX Planet, 2017) https://uxplanet.org/creating-better-moodboards-for-ux-projects-381d4d6daf70
+
 * **Landing Pages**. For branding, a landing page is a dedicated online page built solely for accomplishing one or more marketing goals such as generating leads or getting clicks  
 
   https://hackernoon.com/top-7-ux-principles-for-designing-high-converting-landing-pages-3e4cb951c8e2
