@@ -49,17 +49,20 @@ Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
  
 ### Design Thinking
 
+
+
+* **Feedback Capture Grid**  is a structured way of organising feedback that is gathered from your testing sessions.https://public-media.interaction-design.org/pdf/Feedback-Capture-Grid.pdf
+
+  https://dschool-old.stanford.edu/sandbox/groups/dstudio/wiki/2fced/attachments/1ba97/Feedback-Capture-Grid-Method.pdf?sessionID=a4c32167e58dc598ac57b770de7cb0f4f838ac50
+
+  img: .https://public-media.interaction-design.org/pdf/Feedback-Capture-Grid.pdf
+
 Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author/ditte) **Three Ideation Methods to Enhance Your Innovative Thinking**,   https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking (version en español) https://www.codensign.com/pensamiento-innovador/
 
-* **SCAMPER**. Looking for new strategies to challenge our habitual ways of thinking?  Re-expression is a method to help you think about the challenge in a new and different way. https://www.designorate.com/a-guide-to-the-scamper-technique-for-creative-thinking/
+* **Point of View**. Allow you to ideate and solve your design challenge, you keep a focus on your users, their needs and your insights about them. https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we 
 
-  img: https://2.bp.blogspot.com/-gpPqes8NIvc/WRyPuFDLe7I/AAAAAAAAABc/GtSsoE5ehwAiWA0T7y3MigS1zOiKgiufQCLcB/s320/descarga.png
+  img: https://public-media.interaction-design.org/images/uploads/e07fe7f7836c43502cdc6e617d3d42f6.jpg
 
-* **What if**. The Revolution thinking method to break the rules that your way of seeing the world. You can start challenging these rules by asking ‘what if’ questions
-
-  img: https://www.makeplayingcards.com/design/dn_product_share.aspx?type=11F48D428FF36AB59BE22C9B145D0EC9&id=C5425163BA449E682B7EFFE2DD12A95A2BF154CD4C404F13BD88124449BB90E977F85981BFAE5DD6&w=320&ws=1&f=&sign=&c=1 
-
-* (Faltaría Random Links)  https://public-media.interaction-design.org/pdf/Template-Random-Links.pdf
 
 * **MVP**. By using a LeanUX cavas to achieve the **minimum viable product**, the version of the final product  with less effort  http://scopecanvas.com/ 
 
@@ -67,11 +70,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 ### Analysis
 
-* **Feedback Capture Grid**  is a structured way of organising feedback that is gathered from your testing sessions.https://public-media.interaction-design.org/pdf/Feedback-Capture-Grid.pdf
-
-  https://dschool-old.stanford.edu/sandbox/groups/dstudio/wiki/2fced/attachments/1ba97/Feedback-Capture-Grid-Method.pdf?sessionID=a4c32167e58dc598ac57b770de7cb0f4f838ac50
-
-  img: .https://public-media.interaction-design.org/pdf/Feedback-Capture-Grid.pdf
+* **Task Analysis** Identify your users’ goals and what they are trying to achieve. Also, the steps that your users currently take in order to achieve their goals. https://www.interaction-design.org/literature/article/task-analysis-a-ux-designer-s-best-friend
 
 * **IA: Sitemap**. Focus on the Information Architecture task at the beginning of the design process creating a complete list of all pages available on a website and the intitial navigation 
 
@@ -140,7 +139,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
 ### Testing
 
-* **Prototype**. Prototype is an early sample of design used to get feedback and rapid experiments with new ideas. Publish on Github to test functionality. Yes, your product can do that! https://uxplanet.org/basics-of-prototyping-1a4106e12c0e
+* **Qualitative Reseach: 5" test**. What users think about a new landing page or a new logo. Test the first impressions, and also what people will understand at first look https://usabilityhub.com/guides/five-second-testing
 
 * **Usability Testing**. Take survey, sessions recording: test, observe and fix, test, observe. Validates and collects feedback of flows, design and features. https://medium.com/swlh/how-to-do-user-testing-on-a-budget-bc4000d4387 
 
@@ -152,7 +151,7 @@ Basado en [DITTE MORTENSEN](https://www.interaction-design.org/literature/author
 
   Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
-* **A/B Testing**. Offering alternative versions of your product to different users and comparing the results to find out which one performs better. https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/
+* **A/B Testing**. What users think about a new landing page or a new logo. Test the first impressions, and also what people will understand at first look https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/
 
   Img: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
 
